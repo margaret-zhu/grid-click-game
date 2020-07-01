@@ -6,7 +6,6 @@ import javax.swing.UIManager;
 import javax.swing.WindowConstants;
 
 
-/* Students:  This class is written for you -- do not modify it! */
 
 public class Driver {
 	
